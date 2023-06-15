@@ -7,8 +7,8 @@ The golden rule for this bakeoff is that all phrases must be equally accessible.
 
 Here are a few additional constraints:
 
-Your application will be tested on a laptop using a trackpad. Other means of input (keyboard, voice, etc) are not allowed.
-The text accuracy must be above 95%; occasional typos are fine, but should be rare.
-Your entire interface must be contained within the 1 inch x 1 inch window. Do not change or add anything outside of the window - leave the next button and displayed target phrase / typed text alone.
-Make sure your smartwatch window is actually 1 inch x 1 inch! This should be accomplished already by the Processing code, but double-check to make sure it's correct.
-Do not change the code that compares the target phrase to the typed text when the next button is clicked
+- Your application will be tested on a laptop using a trackpad. Other means of input (keyboard, voice, etc) are not allowed.
+- The text accuracy must be above 95%; occasional typos are fine, but should be rare.
+- Your entire interface must be contained within the 1 inch x 1 inch window. Do not change or add anything outside of the window - leave the next button and displayed target phrase / typed text alone.
+- Make sure your smartwatch window is actually 1 inch x 1 inch! This should be accomplished already by the Processing code, but double-check to make sure it's correct.
+- Do not change the code that compares the target phrase to the typed text when the next button is clicked
